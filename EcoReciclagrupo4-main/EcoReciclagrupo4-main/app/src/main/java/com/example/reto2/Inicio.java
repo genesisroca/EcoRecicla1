@@ -15,8 +15,6 @@ public class Inicio extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Crear botones
-        // testing
-        // testing 2
 
         Button btnregitrarse=findViewById(R.id.btnRegistroInicio);
         Button btnLoginInicio=findViewById(R.id.btnLoginInicio);
